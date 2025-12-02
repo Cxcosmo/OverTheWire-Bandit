@@ -2,8 +2,8 @@
 Link - https://overthewire.org/wargames/bandit
 ---
 > ssh bandit{level}@bandit.labs.overthewire.org -p 2220
-> ssh bandit0@bandit.labs.overthewire.org -p 2220
-> password : bandit0
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+password : bandit0
 ---
 level 0 -> 1
 solve : cat readme
