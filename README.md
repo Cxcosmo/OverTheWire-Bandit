@@ -1,11 +1,11 @@
 # OverTheWire-Bandit
-Link - https://overthewire.org/wargames/bandit
+### Link - https://overthewire.org/wargames/bandit
 ---
-> ssh bandit{level}@bandit.labs.overthewire.org -p 2220
+> ssh bandit{level}@bandit.labs.overthewire.org -p 2220 
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 password : bandit0
 ---
-level 0 -> 1
+## level 0 -> 1
 solve : cat readme
 flag : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ---
