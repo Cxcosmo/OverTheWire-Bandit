@@ -1,5 +1,5 @@
 # OverTheWire-Bandit  
-Link - https://overthewire.org/wargames/bandit
+<p> Link - https://overthewire.org/wargames/bandit </p>
 ---
 > ssh bandit{level}@bandit.labs.overthewire.org -p 2220  
 ---
