@@ -99,10 +99,14 @@
 <p>11. last time it told U that ASCII text</p>  
 <p>12. cat Your file</p>  
 
+#### Decompression file
+##### - gzip
 ```
-Decompression file
-- gzip - $gzip -d {file name}
-- bzip2 - $bzip2 -d {file name}
+gzip -d {file name}
+```
+##### - bzip2
+```
+bzip2 -d {file name}
 ```
 
 <p>Flag - FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn</p>  
